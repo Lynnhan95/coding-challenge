@@ -19,6 +19,8 @@ is the end of the page.
 ## Under data folder
 contains Header data (the navigator menu item list) and People data (which contains age, weight, height, etc).
 
+# Visualization design
+![Coding-challenge.jpg](https://i.loli.net/2021/04/26/8Ydg2NfGEehF1uk.jpg)
 
 
 
