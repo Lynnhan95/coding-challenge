@@ -1,5 +1,6 @@
 # coding-challenge
-Coding Challenge for ForgeRock 
+Coding Challenge for ForgeRock </br>
+View application at: https://lynnhan95.github.io/coding-challenge/
 
 # Technology
 Used React, Hook, D3.js, React router, Material UI to develop 
